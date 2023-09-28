@@ -3,8 +3,8 @@
 
 
 
-Hi, this is a simple application with node js, express, mysql
-
+Hi, this is a simple application with node js, express, mysql <br>
+please visit <a href="week9.enkod.site">click here</a>
 ![](header.png)
 
 ## Installation
